@@ -46,6 +46,10 @@ $(document).ready(function(){
         }
     });
 
+    $( "a" ).click(function( event ) {
+      event.preventDefault();
+    });
+
     $("#nav-button").click(function(){
       $('#main-nav, #nav-button').toggleClass('open');
       $('body').toggleClass('modal-active');
