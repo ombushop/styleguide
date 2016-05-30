@@ -1,1 +1,1 @@
-Check it out! [http://ombulabs.github.io/styleguide/](http://ombulabs.github.io/styleguide/)
+Check it out! [http://ombushop.github.io/styleguide/](http://ombushop.github.io/styleguide/)
